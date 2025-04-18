@@ -1,5 +1,5 @@
 # smiski-chance-generator
-Fun mini-project with percentage and chance prediction's of getting the Smiski you want. 
+Fun mini-project in Python with percentage and chance prediction's of getting the Smiski you want. 
 
 Smiski's are blindboxes originated from Dreams Japan that are inspired from ghost folklore. Blindboxes have become a popularized trend today with over thousands of communities dedicated to sets. Smiski's originally popularized itself in 2022 and have been a consistent part of the commuinity today. 
 
