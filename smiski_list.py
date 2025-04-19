@@ -1,6 +1,8 @@
 """
 Smiski List
 By: @Arien Alabar
+
+NOT FINISHED
 """
 import os 
 
