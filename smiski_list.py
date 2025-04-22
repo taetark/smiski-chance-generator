@@ -20,6 +20,11 @@ def series_1():
 def series_2():
     #series 2 list
     series_2 = ["Kneeling", "Climbing", "Daydream", "Pushing", "Peeking", "Listening", "Birth of Venus","Snowman"]
+      #depending on the users input, the list indexes and prints out the index selected.
+    #if input = any value of series 1 
+    #index value 
+    #put it into another list
+    #format and print the list
     return series_2
 
 def series_3():
