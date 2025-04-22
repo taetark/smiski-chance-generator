@@ -5,6 +5,7 @@ By: @Arien Alabar
 NOT FINISHED
 """
 import os 
+import smiski_chance_generator
 
 smiski = []
 def series_1():
